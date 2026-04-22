@@ -1,0 +1,13 @@
+services:
+  c01:
+    image: img_fatec
+    networks:
+      - rede_compose_fatec
+    volumes:
+      - fatec2_v:/fatec
+
+networks:
+  rede_compose_fatec:
+
+volumes:
+  fatec2_v: 
