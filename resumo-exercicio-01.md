@@ -1,7 +1,4 @@
 # 📋 Resumo — Exercício 01 de Docker
-**Guilherme Xavier Zanetti | 2º ADS AMS | 23/04/2026**
-
----
 
 ## Exercício 1 — Shell Script em container com volume
 
